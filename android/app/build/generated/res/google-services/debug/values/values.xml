@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">185929281797</string>
+    <string name="google_api_key" translatable="false">AIzaSyCp7rs77Igx_qvE4fKpQ78seCN2hp2N27w</string>
+    <string name="google_app_id" translatable="false">1:185929281797:android:5118b180a1715bdea1476c</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCp7rs77Igx_qvE4fKpQ78seCN2hp2N27w</string>
+    <string name="google_storage_bucket" translatable="false">bloc-firebase-2474c.appspot.com</string>
+    <string name="project_id" translatable="false">bloc-firebase-2474c</string>
+</resources>
